@@ -14,11 +14,16 @@ body{
     background-position: top right;
     color: white;
     text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    font-family: "Franklin Gothic Medium";
     font-weight: 400;
 }
 header h1{
     font-size: 17px;
     line-height: 20px;
+}
+@font-face{
+	font-family: Franklin Gothic Medium;
+	src: url(font/ufonts.com_franklin-gothic-medium.ttf);
 }
 .menu_text{
     font-size: 15px;
